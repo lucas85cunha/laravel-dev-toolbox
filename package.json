@@ -2,28 +2,22 @@
     "name": "laravel-dev-toolbox",
     "displayName": "Laravel Dev Toolbox",
     "description": "Conjunto de extensões recomendadas para desenvolvimento Laravel 12 (PHP, Blade, Docker, Tailwind, testing).",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "lucas85cunha",
+    "icon": "images/icon.png",
+    "repository":  "https://github.com/lucas85cunha/laravel-dev-toolbox",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.32.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "galleryBanner": {
-        "color": "#1E8B5D",
-        "theme": "dark"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/lucas85cunha/laravel-dev-toolbox"
-    },
-    "bugs": {
-        "url": "https://github.com/lucas85cunha/laravel-dev-toolbox/issues"
-    },
-    "license": "MIT",
-    "contributes": {
-        "extensionPack": [
+     "keywords": [
+        "PHP",
+        "Laravel",
+        "Docker"
+    ],
+    "extensionPack": [
             "bmewburn.vscode-intelephense-client",
             "junstyle.php-cs-fixer",
             "amiralizadeh9480.laravel-extra-intellisense",
@@ -39,7 +33,5 @@
             "ms-vscode-remote.remote-containers",
             "humao.rest-client",
             "hbenl.vscode-test-explorer"
-        ]
-    },
-    "icon": "images/icon.png"
+    ]
 }
