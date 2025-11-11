@@ -7,3 +7,6 @@ All notable changes to this project will be documented in this file.
 
 - Initial creation: started the Laravel Dev Extension Pack (extension metadata, recommended extensions list, README formatting and badges, MIT license added).
 
+## 0.0.2 - 2025-11-11
+
+- Remove "felixfbecker.php-debug" extension

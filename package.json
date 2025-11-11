@@ -2,7 +2,7 @@
     "name": "laravel-dev-toolbox",
     "displayName": "Laravel Dev Toolbox",
     "description": "Conjunto de extensões recomendadas para desenvolvimento Laravel 12 (PHP, Blade, Docker, Tailwind, testing).",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "lucas85cunha",
     "engines": {
         "vscode": "^1.60.0"
@@ -25,7 +25,6 @@
     "contributes": {
         "extensionPack": [
             "bmewburn.vscode-intelephense-client",
-            "felixfbecker.php-debug",
             "junstyle.php-cs-fixer",
             "amiralizadeh9480.laravel-extra-intellisense",
             "ryannaddy.laravel-artisan",

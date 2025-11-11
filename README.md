@@ -3,7 +3,6 @@
 ## Extensions
 
 [![Intelephense](https://img.shields.io/visual-studio-marketplace/v/bmewburn.vscode-intelephense-client?label=Intelephense&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-[![PHP Debug](https://img.shields.io/visual-studio-marketplace/v/felixfbecker.php-debug?label=PHP%20Debug&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)
 [![PHP CS Fixer](https://img.shields.io/visual-studio-marketplace/v/junstyle.php-cs-fixer?label=PHP%20CS%20Fixer&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
 [![Laravel Blade Snippets](https://img.shields.io/visual-studio-marketplace/v/onecentlin.laravel-blade?label=Laravel%20Blade&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
 [![Laravel Extra Intellisense](https://img.shields.io/visual-studio-marketplace/v/amiralizadeh9480.laravel-extra-intellisense?label=Laravel%20Extra%20Intellisense&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense)
